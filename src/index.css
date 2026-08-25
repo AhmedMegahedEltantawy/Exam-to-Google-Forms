@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .geo-pattern {
+    background-image: radial-gradient(#6366f1 0.75px, transparent 0.75px);
+    background-size: 20px 20px;
+  }
+}

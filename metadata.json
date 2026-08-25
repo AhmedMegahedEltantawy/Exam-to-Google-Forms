@@ -1,0 +1,6 @@
+{
+  "name": "Exam to Google Forms Converter",
+  "description": "Upload Word, Excel, or PDF exams and automatically convert them into Google Forms quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
